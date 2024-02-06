@@ -25,11 +25,11 @@
 
 ## Covid infections Denmark
 
+Every single day a lot of metrics are being collected for the Covid-19 pandemic, and in this dataset there is every single country, but we have decided to cut all countries other than Denmark.
+
 ### Relevant Python files
 
 [denmark-covid-workbook](./denmark-covid-data.ipynb)
-
-Every single day a lot of metrics are being collected for the Covid-19 pandemic, and in this dataset there is every single country, but we have decided to cut all countries other than Denmark.
 
 ## Electrical grid coverage
 
