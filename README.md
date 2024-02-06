@@ -17,6 +17,10 @@
 
 ## Counter Strike 2, players over time
 
+Steam measures the amount of players playing Counter Strike. The website "Steam DB" stores these measurements and allows user from Steam access to the data. The data then contains the date, how many players and the average of players.
+
+The data is not always consistent, there is missing data values and the way it is measured is changing.
+
 ### Relevant Python files
 
 [cs-players workbook](./cs-players.ipynb)
