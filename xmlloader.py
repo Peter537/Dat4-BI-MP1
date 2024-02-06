@@ -5,7 +5,7 @@ class XmlLoader:
 
     @staticmethod
     def load_counter():
-        tree = ET.parse('data/xmlcounterdata.xml')
+        tree = ET.parse('data//ElectricalGridCoverage/ComorosData.xml')
         root = tree.getroot()
 
         # Extract data from XML and create a list of dictionaries
