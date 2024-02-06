@@ -19,6 +19,10 @@
 
 ### Relevant Python files
 
+[cs-players workbook](./cs-players.ipynb)
+
+[xlsx loader](./xlsxloader.py)
+
 ### Data explained
 
 ## Covid infections Denmark
