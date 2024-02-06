@@ -1,7 +1,7 @@
 import pandas as pd
 import xml.etree.ElementTree as ET
 
-def load_xml_data(xml_file):
+def load_xml(xml_file):
     tree = ET.parse(xml_file)
     root = tree.getroot()
 
@@ -20,8 +20,3 @@ def load_xml_data(xml_file):
 
     df = pd.DataFrame(records)
     return df
-
-# Example usage
-xml_file_path = './data/xmldata.xml'
-df = load_xml_data(xml_file_path)
-print(df.head())

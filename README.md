@@ -39,8 +39,6 @@ Every single day a lot of metrics are being collected for the Covid-19 pandemic,
 
 ### Relevant Python files
 
-[WorldBank-Org Access To Electricity](./API_EG.ELC.ACCS.ZS_DS2_en_xml_v2_6301408.xml)
-
-
-
 ### Data explained
+
+https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=chart (.xml)
