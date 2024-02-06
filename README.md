@@ -14,7 +14,7 @@
 [Covid infection data (.csv)](https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset/data)
 
 [Electrical grid coverage (.xml)](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?view=chart) {
-    
+
     Two cut-offs from this bigger file into the smaller: ZimbabweData.xml || ComorosData.xml
 
 }
@@ -45,7 +45,7 @@ A big datasource showing percentage-access to electricity per country/area. In t
 
 Aspects of this project:
 
-basic datamanipulation, data-filling, python-coding (made a xml-file loader), data analysis in form of comparison
+basic data-manipulation, data-filling, python-coding (made a xml-file loader), data analysis in form of comparison
 
 ### Relevant Python files
 
