@@ -16,6 +16,4 @@ class XmlLoader:
 
         df = pd.DataFrame(data_list)
 
-        df_pivot = df.pivot(index='Year', columns=['Country or Area', 'Item'], values='Value').reset_index()
-
         return df
